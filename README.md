@@ -35,7 +35,7 @@
   - Python: 主要开发语言
   - PySpark: 大规模数据处理
   - AutoGluon: 自动机器学习框架
-  - React: 前端开发
+  - Vue 3: 前端开发
   - FastAPI: API服务
   - Jupyter/StudioLab: 数据分析与可视化
 
@@ -181,7 +181,4 @@ aws-air-quality-predictor/
 └── README.md                 # 项目说明
 ```
 
----
-
-如需进一步帮助或有定制化需求，欢迎提issue或联系维护者。
 
